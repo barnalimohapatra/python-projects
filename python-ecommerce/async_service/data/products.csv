@@ -1,0 +1,11 @@
+product_id,name,category,price,in_stock,description
+prod-0001,Laptop Pro,Electronics,1299.99,True,High‑performance laptop for developers.
+prod-0002,Mechanical Keyboard,Electronics,149.95,True,RGB mechanical keyboard with blue switches.
+prod-0003,Bluetooth Earbuds,Electronics,79.99,False,Wireless earbuds with noise cancellation.
+prod-0004,Office Chair,Home,249.50,True,Ergonomic chair for long work sessions.
+prod-0005,Desk Monitor Stand,Home,59.90,False,Riser for dual‑monitor setups.
+prod-0006,Running Shoes,Clothing,119.99,True,Breathable running shoes for jogging.
+prod-0007,Smart Watch,Electronics,299.00,True,Smartwatch with health tracking.
+prod-0008,Notebook,Books,12.95,True,Hardcover notebook for notes.
+prod-0009,Power Bank,Electronics,45.00,True,10000mAh portable charger.
+prod-0010,Jacket,Clothing,89.90,True,Water‑resistant winter jacket.
