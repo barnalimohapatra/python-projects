@@ -81,6 +81,20 @@ PYTHONPATH=. pytest tests/
 
 5. Follow project-specific instructions in each project's README
 
+## Git Workflow
+
+Use the commands below for standard change review and commit flow:
+
+```bash
+git add .
+git diff
+git commit -m "<your message>"
+git push origin HEAD
+git status
+```
+
+> Replace `<your message>` with a short description of the changes.
+
 ## Contributing
 
 When adding new projects to this repository:
